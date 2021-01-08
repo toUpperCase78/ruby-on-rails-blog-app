@@ -1,0 +1,14 @@
+<h1>Hello, Everyone!</h1>
+<p>You are welcome to my blog application!</p>
+<p>This is the page from app/views/articles/index.html.erb, the root path...</p>
+
+<h2>Here Are The Articles</h2>
+<ul>
+  <% @articles.each do |article| %>
+    <li>
+	  <%= link_to article.title, article %>
+	</li>
+  <% end %>
+</ul>
+
+<%= link_to "Create New Article", new_article_path %>
