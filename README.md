@@ -28,7 +28,7 @@ Before I start, the main programming language **Ruby** and the corresponding sof
 
 The command `rails new blog` was entered to create the necessary files and folders.
 
-Next, I ran the following command `ruby rails/bin server` to check if the server (Puma) is working. Then, from the browser, I went to this site: http://localhost:3000. After seeing **Yay! You're on Rails!** image on the screen, I was confident that the app was ready to be developed.
+Next, I ran the following command `ruby bin/rails server` to check if the server (Puma) is working. Then, from the browser, I went to this site: http://localhost:3000. After seeing **Yay! You're on Rails!** image on the screen, I was confident that the app was ready to be developed.
 
 These steps have been implemented to get the blog app working as intended:
 
