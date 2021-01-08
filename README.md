@@ -16,8 +16,6 @@ My credit goes to this video which helped me deploy the app to Heroku: https://w
 
 All of these operations have been done in Windows operating system.
 
-< insert images here >
-
 ## Steps In A Nutshell
 
 Before I start, the main programming language **Ruby** and the corresponding software **Ruby on Rails** had to be installed, as well as several other dependent components:
