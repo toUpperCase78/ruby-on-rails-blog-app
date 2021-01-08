@@ -1,24 +1,17 @@
-# README
+# ruby-on-rails-blog-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**My Implementation of Blog Application with Ruby on Rails + Deployment to Heroku**
 
-Things you may want to cover:
+## Overview
 
-* Ruby version
+You are viewing the source codes of blog application which was done with Ruby on Rails!
 
-* System dependencies
+For making this app, I followed all the steps instructed in _Getting Started with Rails,_ found at Rails' website (here). This app features the CRUD operations (i.e. Create, Read, Update, and Delete) on articles, plus addition and deletion of comments. Besides, an authentication mechanism such that some pages require username and password in order to gain access.
 
-* Configuration
+After the completion of the app in my local computer, I successfully deployed the app to **Heroku** platform! Although I faced some challenges and errors on the way, consequnetly I overcame with them and made sure it works without any problem.
 
-* Database creation
+My credit goes to this video which helped me deploy the app to Heroku: https://www.youtube.com/watch?v=5kVtmnZNC8w&t=63s
 
-* Database initialization
+All of these operations have been done in Windows operating system.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Steps In A Nutshell
